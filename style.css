@@ -627,11 +627,6 @@ html, body {
     background: #0f172a !important;
     color: white !important;
 }
-.services-grid {
-    display: grid !important;
-    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-    gap: 20px !important;
-}
 
 .service-card {
     padding: 32px;
