@@ -619,14 +619,7 @@ footer > p {
     }
 
 }
-body {
-    background: linear-gradient(135deg, #0f172a, #1e293b) !important;
-    color: #ffffff !important;
-}
-html, body {
-    background: #0f172a !important;
-    color: white !important;
-}
+
 
 .service-card {
     padding: 32px;
