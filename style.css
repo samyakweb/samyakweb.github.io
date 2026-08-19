@@ -72,11 +72,7 @@ a {
     justify-content: center;
     text-align: center;
     padding: 130px 20px 80px;
-   background:
-    radial-gradient(circle at 20% 30%, rgba(59,130,246,0.18), transparent 30%),
-    radial-gradient(circle at 80% 70%, rgba(139,92,246,0.18), transparent 30%),
-    linear-gradient(135deg, #0f172a, #020617);
-}
+   background: linear-gradient(135deg, #001f3f 0%, #003b5c 50%, #111827 100%);
 
 .hero-content {
     max-width: 850px;
